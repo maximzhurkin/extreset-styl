@@ -1,0 +1,25 @@
+{
+  "name": "extreset-styl",
+  "version": "0.0.1",
+  "description": "Extended reset styles based on reset.css Eric Meyer",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximzhurkin/extreset-styl.git"
+  },
+  "author": "Max Zhurkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maximzhurkin/extreset-styl/issues"
+  },
+  "homepage": "https://github.com/maximzhurkin/extreset-styl",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-csso": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-stylus": "^2.7.0",
+    "natives": "^1.1.6"
+  }
+}
